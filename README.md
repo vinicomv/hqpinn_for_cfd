@@ -9,6 +9,7 @@ For a deeper theoretical and methodological background, please refer to (and cit
 This repository is intended as an educational resource. The pedagogical content is still a work in progress, and further refinements and explanations will be added in future updates.
 If this repository is in any way useful, please cite:
 https://arxiv.org/abs/2510.14099
+
 @article{amaral2025quantumCFD, title={Quantum machine learning and quantum-inspired methods applied to computational fluid dynamics: a short review}, author={Amaral, Cesar A. and Oliveira, Vinícius L. and Salazar, Juan P. L. C. and Duzzioni, Eduardo I.}, journal={arXiv preprint arXiv:2510.14099}, year={2025} }
 
 ## Contact:
