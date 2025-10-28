@@ -16,10 +16,6 @@ https://arxiv.org/abs/2510.14099
 1. Clone repo: `git clone https://github.com/vinicomv/hqpinn_for_cfd`
 2. Create environment: `conda env create -f environment.yml`
 3. Run notebook: `jupyter notebook hqpinn.ipynb`
-4. Results: Figure 1 shows classical PINN vs HQPINN results.
-
-## Example Output
-![Example Plot](plot.png)
 
 
 ## Contact:
