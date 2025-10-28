@@ -12,6 +12,16 @@ https://arxiv.org/abs/2510.14099
 
 @article{amaral2025quantumCFD, title={Quantum machine learning and quantum-inspired methods applied to computational fluid dynamics: a short review}, author={Amaral, Cesar A. and Oliveira, Vinícius L. and Salazar, Juan P. L. C. and Duzzioni, Eduardo I.}, journal={arXiv preprint arXiv:2510.14099}, year={2025} }
 
+## Quick Start
+1. Clone repo: `git clone https://github.com/vinicomv/hqpinn_for_cfd`
+2. Create environment: `conda env create -f environment.yml`
+3. Run notebook: `jupyter notebook hqpinn.ipynb`
+4. Results: Figure 1 shows classical PINN vs HQPINN results.
+
+## Example Output
+![Example Plot](plot.png)
+
+
 ## Contact:
 Vinícius L. Oliveira – vinicius.luz.oliveira@posgrad.ufsc.br
 Cesar Augusto Amaral – c.amaral@posgrad.ufsc.br
